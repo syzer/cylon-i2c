@@ -1,5 +1,5 @@
 {
-  "name": "cylon-i2c",
+  "name": "cylon-i2c-bmp280",
   "version": "0.26.1",
   "description": "Cylon.js drivers for i2c devices",
   "homepage": "http://cylonjs.com",
